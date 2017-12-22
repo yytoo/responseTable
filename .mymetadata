@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="resposneTable"
+  id="myeclipse.1512973054836"
+  context-root="/resposneTable"
+  j2ee-spec="5.0"
+  archive="resposneTable.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

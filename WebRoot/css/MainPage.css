@@ -1,0 +1,106 @@
+#pg0{
+	background-color: #fff;
+	overflow-x: hidden;
+}
+html, body {
+    color: #333;
+}
+h1, h2, h3, h4, h5 {
+    font-weight: normal;
+}
+html, body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, Tahoma, Arial, "Hiragino Sans GB", "Hiragino Sans GB W3", "Microsoft YaHei", STXihei, STHeiti, Heiti, SimSun, sans-serif;
+    font-size: 100%;
+}
+h1 {
+    display: block;
+    font-size: 2em;
+    -webkit-margin-before: 0.67em;
+    -webkit-margin-after: 0.67em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
+.qcall p {
+    width: 100%;
+    margin-bottom: 12px;
+    line-height: 25px;
+    text-align: right;
+    opacity: 0.6;
+}
+.txtwrap p {
+    font-size: 18px;
+    letter-spacing: 0.12em;
+}
+p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+.topbar{
+	position:absolute;
+	left:0;
+	top:0;
+	width:100%;
+	height:75px;
+	z-index:900;
+}
+.topicfixed{
+	position:fixed;
+	left:0;
+	top:0;
+	background:#fff;
+	border-bottom:1px solid #f1f1f1;
+}
+.content1{
+	width:100%;
+
+}
+.content2{
+	width:100%;
+	height:584px;
+	background:#fff;
+}
+.qw960{
+	position:relative;
+	width:960px;
+	height:584px;
+	margin:0 auto;
+}
+.activebg{
+	position:relative;
+	width:100%;
+	height:600px;
+	background:#fff;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+.fisrtbg{
+	background-image: url(../img/bg1_1600.jpg);
+}
+.secondbg{
+	background-image: url(../img/bg3_1600.jpg);
+}
+.loginDiv{
+	width:960px;
+	margin:0 auto;
+}
+.loginText{
+	width:960px;
+	text-align:center;
+	margin:10px,0px;
+}
+.inputDiv{
+	width:260px;
+	margin:0 auto;
+}
+.submit{
+	margin:10px 0px 10px 200px;
+}
+.inputText{
+	margin-top: 10px;
+}

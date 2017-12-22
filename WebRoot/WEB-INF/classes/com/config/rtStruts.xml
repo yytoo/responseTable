@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.1//EN" "http://struts.apache.org/dtds/struts-2.1.dtd">
+<struts>
+   <package name="rt.mypackage" extends="struts-default">
+        <action name="getInfor" class="com.rt.action.GetInforAction"  method="selectRecord">
+           <!--  <result name="ERROR" type="json">
+            	<param name="data">returnJson</param>
+            </result> 
+            <result name="success" type="json">
+            	<param name="returnJson">returnJson</param>
+            </result>  -->
+        </action> 
+   </package> 
+</struts>
